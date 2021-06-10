@@ -1,0 +1,4 @@
+function g() {}
+function f() {dEbugger;
+g.apply(nula, ['']);}
+f()
