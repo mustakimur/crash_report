@@ -1,0 +1,6 @@
+functiong() {}
+function f() {
+debugger;
+f.apply(null, ['']);
+}
+f()
